@@ -114,13 +114,71 @@ There are two kinds of expenses to consider:
 
 ### Describe the benefits of high availability and scalability in the cloud.
 
+Two of the biggest considerations when deploying an application are:
 
+- Uptime/Availabitily
+
+- Ability to handle demand/scale
+
+#### High availability
+
+Azure provides uptime guarantees depending on the service.
+
+Based on the service-level agreements. These agreements lie between azure and clients, or a TI department of a building with the business clients.
+There are: 99% 99.9% 99.95% 99.99% guarantees, each one way more expensive than the previous.
+
+#### Scalability
+
+It allows to handle demand. You don't have to overpay all the time, just pay what you use.
+
+##### Vertical Scaling
+
+Resources grow in size. You could add more CPUs or RAM to the VM. 
+
+##### Horizontal Scaling
+
+In this case, additional virtual machines or containers are addded. 
 
 ### Describe the benefits of reliability and predictability in the cloud.
 
+#### Reliability
+
+It's the ability of a system to recover from failures. In some cases, your resources will shift to a different region for you.
+
+#### Predictability
+
+This lets you move forward with confidence. Cost and performance are predictable with Azure.
+
+##### Performance
+
+Performance predictability is supported by autoscaling, lod balancing and high availability.
+
+##### Cost
+
+Tools like Total Cost of Ownership (TCO) or Pricing Calculator help know how much your resources will spend.
+
 ### Describe the benefits of security and governance in the cloud.
+
+#### Governance
+
+Things like templates help ensure that all your deployed resources meet corporate standards, and you can update them when standards change.
+
+Auditing helps flag and mitigate any resource out of compliance.
+
+#### Security
+
+You can choose between services so you could either take care of your own security or let it be taken care of.
+
+Also, cloud is well suited to handle DDoS and more attacks.
 
 ### Describe the benefits of manageability in the cloud.
 
+#### Management of the cloud 
+
+It speaks to managing your cloud resources. You can autoscale, deploy resources, monitor, receive alerts.
+
+#### Management in the cloud
+
+You're able to manage your cloud environment and resources. You can manage through a web portal, command line, APIs, Powershell.
 
 ## Describe cloud services types
