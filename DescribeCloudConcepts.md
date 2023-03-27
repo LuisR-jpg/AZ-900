@@ -137,7 +137,7 @@ Resources grow in size. You could add more CPUs or RAM to the VM.
 
 ##### Horizontal Scaling
 
-In this case, additional virtual machines or containers are addded. 
+In this case, additional virtual machines or containers are added. 
 
 ### Describe the benefits of reliability and predictability in the cloud.
 
