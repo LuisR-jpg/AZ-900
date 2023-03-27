@@ -182,3 +182,8 @@ It speaks to managing your cloud resources. You can autoscale, deploy resources,
 You're able to manage your cloud environment and resources. You can manage through a web portal, command line, APIs, Powershell.
 
 ## Describe cloud services types
+
+### Describe IaaS - Infrastructure as a Service
+
+It's like renting hardware, the company provides internet connection, hardware maintenance and physical security.
+
