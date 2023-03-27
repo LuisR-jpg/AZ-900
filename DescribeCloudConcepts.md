@@ -191,3 +191,10 @@ You're able to manage your cloud environment and resources. You can manage throu
 
 It's like renting hardware, the company provides internet connection, hardware maintenance and physical security.
 
+### Describe PaaS - Platform as a service
+
+PaaS is well suited to provide a complete development environment without the headache of maintaining all the development infrastructure, like OS and database licensing.
+
+### Describe SaaS - Software as a service
+
+ith SaaS, you’re essentially renting or using a fully developed application.
