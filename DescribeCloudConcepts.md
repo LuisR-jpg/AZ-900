@@ -183,6 +183,10 @@ You're able to manage your cloud environment and resources. You can manage throu
 
 ## Describe cloud services types
 
+### Shared responsability mode
+
+<img src = "https://github.com/LuisR-jpg/AZ-900/blob/main/data/shared-responsibility.svg">
+
 ### Describe IaaS - Infrastructure as a Service
 
 It's like renting hardware, the company provides internet connection, hardware maintenance and physical security.
