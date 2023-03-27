@@ -183,7 +183,7 @@ You're able to manage your cloud environment and resources. You can manage throu
 
 ## Describe cloud services types
 
-### Shared responsability mode
+### Shared responsability model
 
 <img src = "https://github.com/LuisR-jpg/AZ-900/blob/main/data/shared-responsibility.svg">
 
